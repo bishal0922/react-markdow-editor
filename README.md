@@ -1,4 +1,4 @@
-#react-markdown-editor
+# react-markdown-editor
 
 A simple markdown editor for React.
 
